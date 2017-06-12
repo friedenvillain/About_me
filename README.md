@@ -3,7 +3,7 @@
 * Birthday : 06/27/1992
 * Education : 國立高雄大學-資訊管理學系 (National University of Kaohsiung - Department of Imformation Management) 
 * Location : 高雄市 (Koahsiung City)
-* E-Mail : yamap52088@gmail.com
+* E-Mail : rockitchen80@gmail.com
 * Mobile : 0931-289005
 
 ## 技能

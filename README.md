@@ -39,7 +39,7 @@
 ## 作品
 
 * 德堡名廚 - http://www.rockitchen.com.tw/index.html
-* 吾宿山(學校作業) - http://140.127.218.151/
+* 吾宿山(學校作業) - http://140.127.218.151/ -會員s123456788，員工s123456789，密碼皆為 1
 * 使用 Vue 串接第三方API（google map API & 高雄市政府開放平台 API) - https://ck7179.github.io/Web-Design/final/
 * 畢業專題 - https://github.com/jwc911037/PeckerWriter
 

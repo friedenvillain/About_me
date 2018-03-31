@@ -16,8 +16,13 @@
 ### Javascript/Framework
 
 * 對原生 Javascript 有基礎的了解，目前較常使用 JQuery 做開發與練習。
-* Jquery - 會使用 Jquery 做動畫效果。
-* 接觸過 AngularJS 開發框架，但仍然習慣可讀性高的原生 Javascript。
+* Jquery - 常用來串接資料與修改套件。
+* 正在接觸 Vue.js 開發框架，能夠自主學習，目前能串接資料。
+
+### Python Flask
+
+* 當後端工程師的程式碼有問題時，大部分情況下可自行修正，以節省時間。
+* 自行連接資料庫並寫API在前端進行串接
 
 ### PHP/mySQL
 
@@ -28,19 +33,31 @@
 ### Git/GitHub
 
 * 能夠使用 GitHub Pages 建立一個靜態網頁。
+* 熟悉 source tree、Bitbucket
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 
 ### 其他
 
 * Auduino IDE - 使用來撰寫韌體，
 * Python - 使用套件(具體名稱忘記了)將 Python 的命令轉譯成 Auduino IDE 能夠讀取的程式碼。
+* 擁有自行架站能力。
 
-## 作品
+## 學生時期作品
 
 * 德堡名廚 - http://www.rockitchen.com.tw/index.html
 * 吾宿山(學校作業) - http://140.127.218.151/ -會員s123456788，員工s123456789，密碼皆為 1
 * 使用 Vue 串接第三方API（google map API & 高雄市政府開放平台 API) - https://ck7179.github.io/Web-Design/final/
 * 畢業專題 - https://github.com/jwc911037/PeckerWriter
+
+## 作品
+
+* sherpa 美國性侵犯管理系統(僅後台) - 無法提供網址 
+* 穎威官網(前後台) - https://winwayglobalwebsite.azurewebsites.net/
+* TSUKI面膜官網(前後台) - https://www.tsukimask.com/
+* 鑫翼資訊(僅前台) - https://www.sinyi-tech.com/
+* 溫世仁基金會 Wise 徵才活動網站(前後台) - http://wise.saylingwen.org.tw/2018
+* 心寶貝(僅後台) - 開發中
+* 黛子醫美診所(前後台) - 開發中 http://www.diazywomen.com/
 
 ## 自我介紹
 

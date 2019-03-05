@@ -15,14 +15,15 @@
  
 ### Javascript/Framework
 
-* 對原生 Javascript 有基礎的了解，目前較常使用 JQuery 做開發與練習。
-* Jquery - 常用來串接資料與修改套件。
-* 正在接觸 Vue.js 開發框架，能夠自主學習，目前能串接資料。
+* 對原生 Javascript 有一定深度的了解，能針對專案需求修改套件。
+* Jquery - 常用來串接資料與修改套。
+* 擅長使用 Vue.js 開發畫面。
 
 ### Python Flask
 
 * 當後端工程師的程式碼有問題時，大部分情況下可自行修正，以節省時間。
-* 自行連接資料庫並寫API在前端進行串接
+* 自行連接資料庫並寫API在前端進行串接。
+* 透過jinja2使html在後端即可做初步的資料處理。
 
 ### PHP/mySQL
 
@@ -57,7 +58,9 @@
 * 鑫翼資訊(僅前台) - https://www.sinyi-tech.com/
 * 溫世仁基金會 Wise 徵才活動網站(前後台) - http://wise.saylingwen.org.tw/2018
 * 心寶貝(僅後台) - 開發中
-* 黛子醫美診所(前後台) - 開發中 http://www.diazywomen.com/
+* 黛子醫美診所(前後台) - http://www.diazywomen.com/
+* 多福國際貿易有限公司(前後台) - https://shop.happybebe.com.tw/web/
+* 志明花生糖(前後台) - https://www.ch111.com.tw/web/
 
 ## 自我介紹
 

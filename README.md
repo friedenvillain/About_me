@@ -37,9 +37,8 @@
 * Codeigniter 是目前最為熟悉的 MVC架構。
 * 能夠透過 mySQL 與 PHP 實現管理者直接在 web 上管理網站上的文字、圖片和資料。
 
-### Git/GitHub
+### Git
 
-* 能夠使用 GitHub Pages 建立一個靜態網頁。
 * 熟悉 source tree、Bitbucket
 * 對Git版本控制有基礎的了解，能夠抓取遠端資料庫到本機進行作業、創建分支、合併分支與推送到遠端資料庫。
 

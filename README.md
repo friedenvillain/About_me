@@ -33,9 +33,7 @@
 
 ### PHP/mySQL
 
-* 對 MVC 架構有一定程度的認識，針對網頁的需求尋早合適的 libery 來修改。
-* Codeigniter 是目前最為熟悉的 MVC架構。
-* 能夠透過 mySQL 與 PHP 實現管理者直接在 web 上管理網站上的文字、圖片和資料。
+* MVC架構：使用 Codeigniter、Laravel。
 
 ### Git
 

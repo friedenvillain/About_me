@@ -5,6 +5,7 @@
 * Location : 高雄市 (Koahsiung City)
 * E-Mail : rockitchen80@gmail.com
 * Mobile : 0931-289005
+* Career: Sice 2017 July
 
 ## 技能
 
@@ -30,6 +31,11 @@
 * 曾使用 微軟 Azure
 * LINE 官方帳號機器人整合
 * 綠界金流服務系統、電子發票系統
+
+### LINE、Facebook
+
+* LINE logoin、Facebook login 串接經驗。
+* LINE api串聯開發經驗。
 
 ### PHP/mySQL
 
